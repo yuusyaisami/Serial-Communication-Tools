@@ -1,0 +1,13 @@
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.csproj.AssemblyReference.cache
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.csproj.SuggestedBindingRedirects.cache
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial_Communication_Tools.Form1.resources
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial_Communication_Tools.MainScene.resources
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial_Communication_Tools.Properties.Resources.resources
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\bin\Debug\Serial Communication Tools.exe.config
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\bin\Debug\Serial Communication Tools.exe
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\bin\Debug\Serial Communication Tools.pdb
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.exe
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial Communication Tools.pdb
+C:\Users\macar\source\repos\Serial Communication Tools\Serial Communication Tools\obj\Debug\Serial_Communication_Tools.InfoScene.resources
